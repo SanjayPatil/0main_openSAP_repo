@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Test repo for OpenSAP course work
+Test repo for [OpenSAP][https://open.sap.com] course work
